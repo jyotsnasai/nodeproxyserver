@@ -4,4 +4,4 @@
 
  
 Adding screenshot to README
-<img width="1439" alt="nodeproxyserver-readme" src="https://cloud.githubusercontent.com/assets/17820835/13736537/890bed26-e972-11e5-9bd8-2ce1b37eb352.png">
+![node](https://cloud.githubusercontent.com/assets/17820835/13736728/68fa0b24-e974-11e5-9956-6bfb02bf3cba.gif)
